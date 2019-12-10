@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnqueueActionExamplePlugin", "EnqueueActionExamplePlugin.csproj", "{35A78984-72F8-48AF-9268-AB32EEAFA7EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35A78984-72F8-48AF-9268-AB32EEAFA7EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35A78984-72F8-48AF-9268-AB32EEAFA7EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35A78984-72F8-48AF-9268-AB32EEAFA7EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35A78984-72F8-48AF-9268-AB32EEAFA7EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E611A48-1219-4453-AFA3-54DA00839FA1}
+	EndGlobalSection
+EndGlobal
